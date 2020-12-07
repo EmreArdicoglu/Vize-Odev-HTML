@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.genel{width:100%; height:auto;margin:0 auto;}
+.ust{width:100%; height:80px; background:#312D2D;}
+.logo img{width:200px; height:70px;margin-left: 10px;float: left;}
+.slogan{width:600px; height:60px;float: left;margin-top:10px;margin-left: 300px;}
+.slogan ul li{float:left;list-style-type:none;font-size: 40px;color: white;}
+.icon img{width:70px; height:70px;margin-right:60px;float: right;}
+.icerik{width:100%; height:auto;}
+.bayrak img{width:100%;height:300px;}
+.giris hl{color:black;font-size: 50px;}
+.hakkimizda{float: right; width:700px; height:200px;margin-right: 700px;}
+.hakkimizda hl{line-height:200px ;font-size: 50px;}
+.menu{float:top; background:#312D2D;width:300px; height:500px;}
+.menu hl{font-size: 50px;color:white}
+.menu-icerik{width:250px; height: 400px;;margin-left:20px ;}
+.menu-icerik ul li{font-size: 30px;color: white;text-decoration:none;}
